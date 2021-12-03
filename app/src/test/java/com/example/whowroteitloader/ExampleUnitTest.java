@@ -1,4 +1,4 @@
-package com.example.whowroteit;
+package com.example.whowroteitloader;
 
 import org.junit.Test;
 

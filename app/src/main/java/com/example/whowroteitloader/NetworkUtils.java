@@ -1,4 +1,4 @@
-package com.example.whowroteit;
+package com.example.whowroteitloader;
 
 import android.net.Uri;
 import android.util.Log;
